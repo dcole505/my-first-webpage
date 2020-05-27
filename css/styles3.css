@@ -1,0 +1,17 @@
+h1 {
+  text-decoration: bold;
+  color: gold;
+  font-family: Comic Sans MS;
+}
+
+h2 {
+  text-decoration: underline;
+  color: orangered;
+  font-family: Comic Sans MS;
+}
+
+p {
+  color: grey;
+  text-decoration: italic;
+  font-family: Comic Sans MS;
+}
